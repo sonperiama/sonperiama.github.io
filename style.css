@@ -1,0 +1,35 @@
+html {
+	font-family: consolas;
+	color: #ffffff;
+	background-color: #c0c0d0;
+}
+
+#header {
+	position: absolute;
+	left: 16px;
+	top: 0px;
+	width: 15%;
+	height: 100%;
+	color: #000000;
+	padding: 0px;
+}
+
+#content {
+	position: absolute;
+	left: 15%;
+	top: 0px;
+	width: 70%; 
+	height: 100%;
+	background-color: #404048;
+	padding: 0px;
+}
+
+#side {
+	position: absolute;
+	left: 85%;
+	top: 0px;
+	width: 15%;
+	height: 100%;
+	color: #000000;
+	padding: 0px;
+}
