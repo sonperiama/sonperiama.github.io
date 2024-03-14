@@ -11,7 +11,7 @@ html {
 	width: 15%;
 	height: 100%;
 	color: #000000;
-	padding: 0px;
+	padding: 16px;
 }
 
 #content {
@@ -21,7 +21,7 @@ html {
 	width: 70%; 
 	height: 100%;
 	background-color: #404048;
-	padding: 0px;
+	padding: 16px;
 }
 
 #side {
